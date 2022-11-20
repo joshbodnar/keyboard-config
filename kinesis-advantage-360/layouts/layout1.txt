@@ -1,8 +1,25 @@
 <base>
+[spc]>[ent]
+[rctr]>[esc]
+[ent]>[tab]
+[pgdn]>[eql]
+[cbrk]>[rght]
+[obrk]>[up]
+[up]>[left]
+[end]>[hyph]
+[bspc]>[spc]
+[del]>[bspc]
+[grav]>[lalt]
+[caps]>[rwin]
+{hk2}>{x1}{-rwin}{spc}{+rwin}
+{hk4}>{x1}{-lctr}{up}{+lctr}
+{esc}>{x1}{-lctr}{-lalt}
 
 <keypad>
 
 <function1>
+[v]>[cbrk]
+[c]>[obrk]
 
 <function2>
 
