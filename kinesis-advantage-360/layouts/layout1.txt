@@ -3,7 +3,9 @@
 [pgup]>[lshf]
 [home]>[lshf]
 [end]>[rwin]
+{hk1}>{x1}{-lalt}{-lctr}{e}{+lalt}{+lctr}
 {hk2}>{x1}{-rwin}{spc}{+rwin}
+{hk3}>{x1}{-lalt}{-lctr}{t}{+lalt}{+lctr}
 {hk4}>{x1}{-rctr}{up}{+rctr}
 
 <keypad>
