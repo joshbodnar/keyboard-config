@@ -11,6 +11,17 @@
 <keypad>
 
 <function1>
+{left}>{x1}{-lctr}{-lalt}{left}{+lctr}{+lalt}
+{rght}>{x1}{-lctr}{-lalt}{rght}{+lctr}{+lalt}
+{up}>{x1}{-lctr}{-lalt}{up}{+lctr}{+lalt}
+{down}>{x1}{-lctr}{-lalt}{down}{+lctr}{+lalt}
+{d}>{x1}{-lctr}{-lalt}{d}{+lctr}{+lalt}
+{f}>{x1}{-lctr}{-lalt}{f}{+lctr}{+lalt}
+{g}>{x1}{-lctr}{-lalt}{g}{+lctr}{+lalt}
+{c}>{x1}{-lctr}{-lalt}{c}{+lctr}{+lalt}
+{e}>{x1}{-lctr}{-lalt}{e}{+lalt}{+lctr}
+{t}>{x1}{-lctr}{-lalt}{t}{+lalt}{+lctr}
+{ent}>{x1}{-lctr}{-lalt}{ent}{+lalt}{+lctr}
 
 <function2>
 
