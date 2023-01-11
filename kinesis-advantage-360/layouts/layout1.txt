@@ -1,27 +1,14 @@
 <base>
 [pgdn]>[tab]
-[pgup]>[lshf]
+[pgup]>[esc]
 [home]>[lshf]
 [end]>[rwin]
-{hk1}>{x1}{-lalt}{-lctr}{e}{+lalt}{+lctr}
 {hk2}>{x1}{-rwin}{spc}{+rwin}
-{hk3}>{x1}{-lalt}{-lctr}{t}{+lalt}{+lctr}
 {hk4}>{x1}{-rctr}{up}{+rctr}
 
 <keypad>
 
 <function1>
-{left}>{x1}{-lctr}{-lalt}{left}{+lctr}{+lalt}
-{rght}>{x1}{-lctr}{-lalt}{rght}{+lctr}{+lalt}
-{up}>{x1}{-lctr}{-lalt}{up}{+lctr}{+lalt}
-{down}>{x1}{-lctr}{-lalt}{down}{+lctr}{+lalt}
-{d}>{x1}{-lctr}{-lalt}{d}{+lctr}{+lalt}
-{f}>{x1}{-lctr}{-lalt}{f}{+lctr}{+lalt}
-{g}>{x1}{-lctr}{-lalt}{g}{+lctr}{+lalt}
-{c}>{x1}{-lctr}{-lalt}{c}{+lctr}{+lalt}
-{e}>{x1}{-lctr}{-lalt}{e}{+lalt}{+lctr}
-{t}>{x1}{-lctr}{-lalt}{t}{+lalt}{+lctr}
-{ent}>{x1}{-lctr}{-lalt}{ent}{+lalt}{+lctr}
 
 <function2>
 
